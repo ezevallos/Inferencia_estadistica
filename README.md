@@ -1,1 +1,1 @@
-# Inferencia_estadistica
+# Inferencia estadística básica
