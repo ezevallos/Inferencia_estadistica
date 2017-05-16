@@ -3,6 +3,7 @@
 ## Lectura previa
  - [Seeing Theory: A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/).
  - [STA 101 Labs](http://www2.stat.duke.edu/~mc301/101_labs/).
+ - [Lectures on Statistics Robert Ash](http://www.math.uiuc.edu/~r-ash/Stat.html).
 
 ## Lista de temas
 
