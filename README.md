@@ -4,6 +4,14 @@
  - [Seeing Theory: A visual introduction to probability and statistics](http://students.brown.edu/seeing-theory/).
  - [STA 101 Labs](http://www2.stat.duke.edu/~mc301/101_labs/).
  - [Lectures on Statistics Robert Ash](http://www.math.uiuc.edu/~r-ash/Stat.html).
+ 
+## Acerca de temas de presentación y complementarios (Por actualizar)
+
+ - Regresión Jackknifed.
+ - Bootstrap.
+ - Problema de Waldegrave.
+ - Distancia de Cook.
+ - El rol de la probabilidad en la Teoria de Señales.
 
 ## Lista de temas
 
