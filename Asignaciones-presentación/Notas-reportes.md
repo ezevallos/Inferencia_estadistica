@@ -6,7 +6,9 @@ Esta lista de temas complementarios, son acerca de tópicos que no se tratarán 
 
 ### Fechas y forma  de presentación
 
-La fecha de presentación  es  el dia  **viernes 23 de junio**, en formato pdf o html, utilizando [Rstudio](https://www.rstudio.com/) y [Rmarkdown](http://rmarkdown.rstudio.com/) hasta las 16:00pm, en el Laboratorio1. Trabajos fuera de tiempo, no serán tomados en cuenta.  La lista de temas es:
+La fecha de presentación  es  el dia  **viernes 23 de junio**, en formato pdf o html, utilizando [Rstudio](https://www.rstudio.com/) y [Rmarkdown](http://rmarkdown.rstudio.com/) hasta las 16:00pm, en el Laboratorio1. Trabajos fuera de tiempo, no serán tomados en cuenta. 
+
+La lista de temas es:
 
 - Estrategias generales para el diseño de Algoritmos
     * Búsqueda exhaustiva.
@@ -125,7 +127,9 @@ Los trabajos  complementarios se realizarán de **manera individual**. No se ace
 
 ####  Acerca del lenguaje de programación 
 
-Escribe todos tus  códigos y ejemplos en R, no se es permitido otro lenguaje de programación. El código R, que escribas debe estar incluido en el documento, utilizando la siguiente [plantilla](), cualquier otro formato, no se es permitido y no será revisado. A los usuarios de Windows, se les recomienda utilizar la codificación **UTF-8**. Mayor información [aquí](https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding). Cualquier símbolo extraño, que aparezca en otros sistema operativo, será penalizado y es de su completa responsabilidad. 
+Escribe todos tus  códigos y ejemplos en R, no se es permitido otro lenguaje de programación. El código R, que escribas debe estar incluido en el documento, utilizando la siguiente [plantilla](), cualquier otro formato, no se es permitido y no será revisado. A los usuarios de Windows, se les recomienda utilizar la codificación **UTF-8**. Mayor información [aquí](https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding).
+
+Cualquier símbolo extraño, que aparezca en otros sistema operativo, será penalizado y es de su completa responsabilidad. 
 
 ### Sobre el trabajo
 
@@ -135,4 +139,4 @@ Cualquier, copia o traducción directa de una página, conducirá a la anulació
 ## Referencias
 
 * [Presentation Zen-How to Design & Deliver Presentations Like a Pro](http://www.garrreynolds.com/Presentation/pdf/presentation_tips.pdf).
-* [Points of view: Storytelling](http://www.nature.com/nmeth/journal/v10/n8/full/nmeth.2571.html
+* [Points of view: Storytelling](http://www.nature.com/nmeth/journal/v10/n8/full/nmeth.2571.html).
