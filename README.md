@@ -7,7 +7,7 @@
  
  ## Acerca de temas de presentación y complementarios.
  
- Lista de temas, que extienden las notas de  los repositorios [Curso-R](https://github.com/C-Lara/Curso-R) y [Curso-Probabilidad](https://github.com/C-Lara/Curso-Probabilidad), parte del curso ** CM-274 Introducción a las Probabilidades y Estadística** . 
+ Lista de temas, que extienden las notas de  los repositorios [Curso-R](https://github.com/C-Lara/Curso-R) y [Curso-Probabilidad](https://github.com/C-Lara/Curso-Probabilidad), parte del curso  **CM-274 Introducción a las Probabilidades y Estadística** . 
 
  - Estrategias generales para el diseño de Algoritmos
     * Búsqueda exhaustiva.
@@ -72,6 +72,15 @@
     * FFT. Derivación.
     * La transformada de Fourier bidimensional y  marcaa de agua digital.
     * Imágenes híbridas.
+ - Determinismo y Autómatas Finitos
+   * Computación. Autómatas finitos deterministicos(DFA) y no deterministicos (NFA). Automáta pushdown (PDA).
+   * Máquinas de Turing.
+   * Problema de la detención para máquinas de Turing.
+   * El mundo de los autómatas celulares.
+   
+ - Lenguaje natural
+   * Métricas en las palabras. Segmentación de palabras.
+   * Criptoanálisis con N-gramas.
     
  - Análisis de regresión  y la distancia de Cook.
  - Problema de Waldegrave
