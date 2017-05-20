@@ -56,6 +56,7 @@
     * Aplicaciones.
  - Prueba del teorema fundamental de Programación Lineal. El método del Simplex. Algoritmos.
  - Métodos de puntos interiores. Algoritmos. 
+ - Test de primalidad de Miller-Rabin.
  - Grupos que actúan en conjuntos
    * Grupos de permutaciones. La rotación de un cuadrado.
    * El grupo simétrico. Ejemplos.
@@ -111,6 +112,9 @@
      * Algoritmos basados en árboles.
      * Algoritmos Bayesianos.
      * Algoritmos de agrupación.
+     
+   - Análisis de componentes principales (PCA)
+     * Aplicacion. Eigenfaces para el reconocimiento facial.
  
  ## Software
  
