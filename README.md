@@ -5,6 +5,64 @@
  - [STA 101 Labs](http://www2.stat.duke.edu/~mc301/101_labs/).
  - [Lectures on Statistics Robert Ash](http://www.math.uiuc.edu/~r-ash/Stat.html).
  
+ ## Acerca de temas de presentación y complementarios
+
+ - Estrategias generales para el diseño de Algoritmos
+    * Búsqueda exhaustiva.
+    * Vuelta atrás.
+    * Disminuir y conquistar.
+    * Transformar y conquistar.
+    * Greedy.
+ - Técnicas de Análisis.
+    * Análisis de un algoritmo no recursivo. Ejemplo: Square Build-Up. 
+    * Análisis de un algoritmo recursivo. Ejemplo: Torres de Hanoi.
+    * Invariantes. Ejemplos.
+ - Herramientas de álgebra lineal numérica
+    * Estructura matricial y complejidad algoritmica.
+    * Resolución de ecuacions lineales con matrices factorizadas.
+    * Factorización LU, Cholesky y LDLT.
+    * Eliminación de bloques. Complemento de Schur.
+    * Algoritmos.
+ - Descomposición QR, transformaciones de Householder y rotaciones Givens. Algoritmos.
+ - El procedimiento de Gram-Schmdidt, descomposición QR, mínimos cuadrados. Algoritmos.
+ - Métodos de Gradiente conjugado. Algoritmos y complejidad.
+ - Métodos de subespacios de Krilov. Algoritmo de Arnoldi y Lanczos.
+ - Descomposición por valores singulares. Algoritmos.
+ - Algoritmos de Grafos
+   * Algoritmos del camino más corto: Dijstra, Floyd-Warshall.
+   * Problema del árbol generador mínimo.
+   * Algoritmo BFS y DFS. 
+   * Algoritmo de Boruvka -Solling.
+ - Flujo de redes 
+   * Redes de transporte y cortes.
+   * Teorema del máximo flujo y el mínimo corte.
+   * Capacidad residual y red residual.
+   * Algoritmo de Ford-Fulkerson. Modificación del algoritmo de Ford-Fulkerson por Edmonds-Karp.
+   * Tiempo de complejidad del Algoritmo de Ford-Fulkerson.
+   * Algoritmo de Edmonds-Karp.
+ - Prueba del teorema fundamental de Programación Lineal. El método del Simplex. Algoritmos.
+ - Métodos de puntos interiores. Algoritmos. 
+ - Cadenas de Markov y Martingalas.
+    * Matrices de transición. Cadenas de Markov y grafos.
+    * Cadenas de Markov irreducibles. Distribuciones invariantes.
+    * Martingalas. Teorema de convergencia de Martingalas.
+    * Tiempos de parada.
+ - Caminos aleatorios.
+   * Definiciones.
+   * El principio de reflección. El teorema de Ballot.
+   * Retorno al cero. 
+   * Lema de Nelson. 
+ - Métodos de Montecarlo.
+    * Definiciones.
+    * Método tradicional de integración de MonteCarlo.
+    * Caso particular: Simulación de Variables aleatorias.
+    * El método Bootstrap.
+    * El método  Jackknife.
+  - Ingeniería de factores
+    * Métodos de Filtrado
+    * Métodos de envoltura
+    * Métodos embebidos. Ejemplos.
+ 
  ## Software
  
  ### R Markdown 
