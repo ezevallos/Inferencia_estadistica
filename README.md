@@ -35,13 +35,7 @@ Un R Notebooks es un documento R Markdown, que permite mostrar independientement
 
 Más información en  la página [http://rmarkdown.rstudio.com/r_notebooks.html](http://rmarkdown.rstudio.com/r_notebooks.html).
  
-## Acerca de temas de presentación y complementarios (Por actualizar)
 
- - Regresión Jackknifed.
- - Bootstrap.
- - Problema de Waldegrave.
- - Distancia de Cook.
- - El rol de la probabilidad en la Teoria de Señales.
 
 ## Lista de temas
 
