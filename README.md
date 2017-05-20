@@ -15,7 +15,7 @@
     * Disminuir y conquistar.
     * Transformar y conquistar.
     * Greedy.
- - Técnicas de Análisis.
+ - Técnicas de Análisis
     * Análisis de un algoritmo no recursivo. Ejemplo: Square Build-Up. 
     * Análisis de un algoritmo recursivo. Ejemplo: Torres de Hanoi.
     * Invariantes. Ejemplos.
@@ -29,7 +29,10 @@
  - El procedimiento de Gram-Schmdidt, descomposición QR, mínimos cuadrados. Algoritmos.
  - Métodos de Gradiente conjugado. Algoritmos y complejidad.
  - Métodos de subespacios de Krilov. Algoritmo de Arnoldi y Lanczos.
- - Descomposición por valores singulares. Algoritmos.
+ - Descomposición por valores singulares (SVD). Algoritmos.
+   * Métodos de subespacios : PCA, MDS, FDA y CCA.
+   * Propiedades variacionales de autovalores y valores singulares.
+   * Matrices diferenciales.
  - Algoritmos de Grafos
    * Algoritmos del camino más corto: Dijstra, Floyd-Warshall.
    * Problema del árbol generador mínimo.
@@ -42,6 +45,15 @@
    * Algoritmo de Ford-Fulkerson. Modificación del algoritmo de Ford-Fulkerson por Edmonds-Karp.
    * Tiempo de complejidad del Algoritmo de Ford-Fulkerson.
    * Algoritmo de Edmonds-Karp.
+   
+  - Algoritmo PageRank
+    * Importancia en la Web. Motores de búsqueda.
+    * La web y la teoria de Grafos. 
+    * Implementación.
+ - El grafo aleatorio de Erdos-Renyi
+    * Grafos aleatorios. 
+    * El modelo de Erdos-Renyi.
+    * Aplicaciones.
  - Prueba del teorema fundamental de Programación Lineal. El método del Simplex. Algoritmos.
  - Métodos de puntos interiores. Algoritmos. 
  - Grupos que actúan en conjuntos
@@ -50,7 +62,7 @@
    * El grupo diedro. Ejemplos.
    * El ciclo de descomposición de una permutación.
  
- - Cadenas de Markov y Martingalas.
+ - Cadenas de Markov y Martingalas
     * Matrices de transición. Cadenas de Markov y grafos.
     * Cadenas de Markov irreducibles. Distribuciones invariantes.
     * Martingalas. Teorema de convergencia de Martingalas.
