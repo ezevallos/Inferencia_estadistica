@@ -2,13 +2,13 @@
 
 ## Trabajos complementarios
 
-Esta lista de temas complementarios, son acerca de tópicos que no se tratarán en el curso : CM-274. Los temas son de distintas áreas, pasando desde conceptos básicos de algoritmos, álgebra lineal numérica, complejidad de Kolmogorov, teoria de Grafos, programación lineal, machine learning, etc. 
+Esta lista de temas complementarios, son acerca de tópicos que no se tratarán en el curso : CM-274. Los temas son de distintas áreas, pasando desde conceptos básicos de algoritmos, álgebra lineal numérica, complejidad de Kolmogorov, teoria de Grafos, programación lineal, criptografía, machine learning, etc. 
 
 ### Fechas y forma  de presentación
 
-La fecha de presentación  es  el dia  **viernes 23 de junio**, en formato pdf o html, utilizando [Rstudio](https://www.rstudio.com/) y [Rmarkdown](http://rmarkdown.rstudio.com/) hasta las 16:00pm, en el Laboratorio1. Trabajos fuera de tiempo, no serán tomados en cuenta. 
+La fecha de presentación  es  el dia  **viernes 23 de junio**, en formato pdf o html, utilizando [Rstudio](https://www.rstudio.com/) y [Rmarkdown](http://rmarkdown.rstudio.com/) hasta las 16:00pm, en el Laboratorio1. 
 
-La lista de temas es:
+Trabajos fuera de tiempo, no serán tomados en cuenta.  La lista de temas es:
 
 - Estrategias generales para el diseño de Algoritmos
     * Búsqueda exhaustiva.
@@ -123,17 +123,17 @@ La lista de temas es:
  
 
 ####  Equipo de proyecto
-Los trabajos  complementarios se realizarán de **manera individual**. No se aceptan grupos de dos o más estudiantes. No se admite temas repetidos, salvo que todos los temas fuesen tomados. 
+Los trabajos  complementarios se realizarán de **manera individual**. No se aceptan grupos de dos o más estudiantes y no se admite temas repetidos, salvo que todos los temas fuesen tomados. 
 
 ####  Acerca del lenguaje de programación 
 
-Escribe todos tus  códigos y ejemplos en R, no se es permitido otro lenguaje de programación. El código R, que escribas debe estar incluido en el documento, utilizando la siguiente [plantilla](), cualquier otro formato, no se es permitido y no será revisado. A los usuarios de Windows, se les recomienda utilizar la codificación **UTF-8**. Mayor información [aquí](https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding).
+Escribe todos tus  códigos y ejemplos en R y rmarkdown , no se es permitido otro lenguaje de programación distinto. El código R, que escribas debe estar incluido en el documento, utilizando la siguiente [plantilla](), cualquier otro formato,  será descartado y no será revisado. 
 
-Cualquier símbolo extraño, que aparezca en otros sistema operativo, será penalizado y es de su completa responsabilidad. 
+A los usuarios de Windows, se les recomienda utilizar la codificación **UTF-8**. Mayor información [aquí](https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding). Cualquier símbolo extraño, que aparezca en otros sistema operativo, durante la revisión de esta asignación  es de su completa responsabilidad. 
 
 ### Sobre el trabajo
 
-Cualquier, copia o traducción directa de una página, conducirá a la anulación de la asignación. El estudiante debe leer y buscar información sobre los temas y sacar sus propios resumenes. Se usará  [MOSS A System for Detecting Software Similarity](https://theory.stanford.edu/~aiken/moss/). 
+Cualquier, copia o traducción directa de una página, conducirá a la anulación de la asignación. El estudiante debe leer y buscar información sobre los temas y sacar sus propios resumenes. Se usará  [MOSS A System for Detecting Software Similarity](https://theory.stanford.edu/~aiken/moss/) si fuese necesario. 
 
 
 ## Referencias
