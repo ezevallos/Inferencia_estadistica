@@ -47,17 +47,22 @@
     * Cadenas de Markov irreducibles. Distribuciones invariantes.
     * Martingalas. Teorema de convergencia de Martingalas.
     * Tiempos de parada.
- - Caminos aleatorios.
+ - Caminos aleatorios
    * Definiciones.
    * El principio de reflección. El teorema de Ballot.
    * Retorno al cero. 
    * Lema de Nelson. 
- - Métodos de Montecarlo.
+ - Métodos de Montecarlo
     * Definiciones.
     * Método tradicional de integración de MonteCarlo.
     * Caso particular: Simulación de Variables aleatorias.
     * El método Bootstrap.
     * El método  Jackknife.
+ - Análisis de regresión  y la distancia de Cook.
+ - Problema de Waldegrave
+   * Introducción a la teoria de Juegos.
+   * Solucion del problema. Explicación.
+   * El juego Le Her.
   - Ingeniería de factores
     * Métodos de Filtrado
     * Métodos de envoltura
