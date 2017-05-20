@@ -7,7 +7,7 @@
  
  ## Acerca de temas de presentación y complementarios.
  
- Lista de temas, que extienden las notas de  los repositorios [Curso-R](https://github.com/C-Lara/Curso-R) y [Curso-Probabilidad](https://github.com/C-Lara/Curso-Probabilidad), parte del curso CM-274 Introducción a las Probabilidades y Estadística. 
+ Lista de temas, que extienden las notas de  los repositorios [Curso-R](https://github.com/C-Lara/Curso-R) y [Curso-Probabilidad](https://github.com/C-Lara/Curso-Probabilidad), parte del curso ** CM-274 Introducción a las Probabilidades y Estadística** . 
 
  - Estrategias generales para el diseño de Algoritmos
     * Búsqueda exhaustiva.
@@ -66,6 +66,13 @@
     * Caso particular: Simulación de Variables aleatorias.
     * El método Bootstrap.
     * El método  Jackknife.
+ - Procesamiento de señales
+    * La transformada discreta de Fourier. Las transformaciones de señales discretas.
+    * Inversa y dualidad de la transformada discreta de Fourier.
+    * FFT. Derivación.
+    * La transformada de Fourier bidimensional y  marcaa de agua digital.
+    * Imágenes híbridas.
+    
  - Análisis de regresión  y la distancia de Cook.
  - Problema de Waldegrave
    * Introducción a la teoria de Juegos.
