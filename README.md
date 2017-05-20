@@ -7,7 +7,7 @@
  
  ## Acerca de temas de presentación y complementarios.
  
- Lista de temas, que extienden las notas de  los repositorios [Curso-R](https://github.com/C-Lara/Curso-R) y [Curso-Probabilidad](https://github.com/C-Lara/Curso-Probabilidad), parte del curso  **CM-274 Introducción a las Probabilidades y Estadística** . 
+ Lista de temas, que extienden las notas de  los repositorios [Curso-R](https://github.com/C-Lara/Curso-R) y [Curso-Probabilidad](https://github.com/C-Lara/Curso-Probabilidad), parte del curso  *CM-274 Introducción a las Probabilidades y Estadística* . 
 
  - Estrategias generales para el diseño de Algoritmos
     * Búsqueda exhaustiva.
@@ -19,6 +19,10 @@
     * Análisis de un algoritmo no recursivo. Ejemplo: Square Build-Up. 
     * Análisis de un algoritmo recursivo. Ejemplo: Torres de Hanoi.
     * Invariantes. Ejemplos.
+ - Complejidad de Kolmogorov.
+    * Complejidad algorítmica. Probabilidad algorítmica.
+    * Razonamiento inductivo. 
+    * Incompatibilidad e Incompresibilidad
  - Herramientas de álgebra lineal numérica
     * Estructura matricial y complejidad algoritmica.
     * Resolución de ecuacions lineales con matrices factorizadas.
