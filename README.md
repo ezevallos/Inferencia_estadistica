@@ -5,7 +5,9 @@
  - [STA 101 Labs](http://www2.stat.duke.edu/~mc301/101_labs/).
  - [Lectures on Statistics Robert Ash](http://www.math.uiuc.edu/~r-ash/Stat.html).
  
- ## Acerca de temas de presentación y complementarios
+ ## Acerca de temas de presentación y complementarios.
+ 
+ Lista de temas, que extienden las notas de  los repositorios [Curso-R](https://github.com/C-Lara/Curso-R) y [Curso-Probabilidad](https://github.com/C-Lara/Curso-Probabilidad), parte del curso CM-274 Introducción a las Probabilidades y Estadística. 
 
  - Estrategias generales para el diseño de Algoritmos
     * Búsqueda exhaustiva.
@@ -42,6 +44,12 @@
    * Algoritmo de Edmonds-Karp.
  - Prueba del teorema fundamental de Programación Lineal. El método del Simplex. Algoritmos.
  - Métodos de puntos interiores. Algoritmos. 
+ - Grupos que actúan en conjuntos
+   * Grupos de permutaciones. La rotación de un cuadrado.
+   * El grupo simétrico. Ejemplos.
+   * El grupo diedro. Ejemplos.
+   * El ciclo de descomposición de una permutación.
+ 
  - Cadenas de Markov y Martingalas.
     * Matrices de transición. Cadenas de Markov y grafos.
     * Cadenas de Markov irreducibles. Distribuciones invariantes.
@@ -67,6 +75,14 @@
     * Métodos de Filtrado
     * Métodos de envoltura
     * Métodos embebidos. Ejemplos.
+   - Grupos de algoritmos del Machine Learning
+     * Introducción al Machine Learning. Tipos de aprendizaje.
+     * Métodos basados en regresión.
+     * Algoritmos basados en distancia.
+     * Métodos de regularización.
+     * Algoritmos basados en árboles.
+     * Algoritmos Bayesianos.
+     * Algoritmos de agrupación.
  
  ## Software
  
@@ -89,8 +105,6 @@ En las notas se usan los *los folletos(handout) de [Edward Tufte](http://rmarkdo
 
 ```
 install.packages("tufte", type = "source")
-
-
 ```
 
 ### R Notebooks
@@ -98,7 +112,6 @@ Un R Notebooks es un documento R Markdown, que permite mostrar independientement
 
 Más información en  la página [http://rmarkdown.rstudio.com/r_notebooks.html](http://rmarkdown.rstudio.com/r_notebooks.html).
  
-
 
 ## Lista de temas
 
