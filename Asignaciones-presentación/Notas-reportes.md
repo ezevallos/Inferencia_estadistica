@@ -1,52 +1,135 @@
+# Notas acerca de las presentaciones
+
 ## Trabajos complementarios
 
-Esta lista de temas complementarios, son acerca de tópicos que no se tratarán en el curso.  A diferencia de las asignaciones, cuyos  objetivos es describir el proceso de análisis de datos y responder una serie de ejercicios, estos temas exigen, el desarrollo de tópicos que van desde la *teoria de la categoria*, *lenguaje distribuido*, *programación en paralela* y *extensiones de la librería pandas*.
-
-## Lista de temas
-
-* Category Theory for Scientists.
-* El ecosistema de [Blaze](http://blaze.pydata.org/).
-* Pandas distribuido con  [DataFrame Dask](http://dask.readthedocs.io/en/latest/).
-* PyData y el  GIL.
-* Dask, Pandas y XGBoost.
-* Dask y Scikit-Learn: Paralelismo de modelos.
-* Pandas y HDFS con DataFrame Dask.
-* Introducción a estructuras de datos probabilísticas.
-* La historia de las redes neuronales.
-* Las matemáticas del Machine Learning.
-* Análisis de datos no estructurados en BigData mediante Map Reduce.
-* Una introduccion a **agate**.
+Esta lista de temas complementarios, son acerca de tópicos que no se tratarán en el curso : CM-274.
 
 ### Fechas de presentación
 
-Un cronograma de  presentaciones es :
+La fecha de presentación  es  el dia  ** viernes 23 de junio ** , hasta las 8:00am. La lista de temas es:
 
-* Semana del 9  al 13 de mayo: Título general del trabajo, resumen general, desarrollo de temas introductorios al tema, como es el caso de  computación paralela o python GIL. Puedes ver un ejemplo de presentación parcial [aqui](http://matthewrocklin.com/blog/work/2017/02/11/dask-tensorflow).
-
-* Semana del 26 -30 de junio: Presentación final del trabajo complementario.
-
-
-Por supuesto cada tema  es muy diferente, esta es una guía aproximada para ayudarte  a planear con anticipación tu trabajo.
-
-Cualquier cambio que realices en tus  repositorios o documentos en  github después de la fecha de vencimiento se ignorará. Por favor, tengan  todo su trabajo enviado y probado (presentaciones y/o páginas web, screencasts, código etc.) antes de la fecha límite.
+- Estrategias generales para el diseño de Algoritmos
+    * Búsqueda exhaustiva.
+    * Vuelta atrás.
+    * Disminuir y conquistar.
+    * Transformar y conquistar.
+    * Greedy.
+ - Técnicas de Análisis
+    * Análisis de un algoritmo no recursivo. Ejemplo: Square Build-Up. 
+    * Análisis de un algoritmo recursivo. Ejemplo: Torres de Hanoi.
+    * Invariantes. Ejemplos.
+ - Complejidad de Kolmogorov.
+    * Complejidad algorítmica. Probabilidad algorítmica.
+    * Razonamiento inductivo. 
+    * Incompatibilidad e Incompresibilidad
+ - Herramientas de álgebra lineal numérica
+    * Estructura matricial y complejidad algoritmica.
+    * Resolución de ecuacions lineales con matrices factorizadas.
+    * Factorización LU, Cholesky y LDLT.
+    * Eliminación de bloques. Complemento de Schur.
+    * Algoritmos.
+ - Descomposición QR, transformaciones de Householder y rotaciones Givens. Algoritmos.
+ - El procedimiento de Gram-Schmdidt, descomposición QR, mínimos cuadrados. Algoritmos.
+ - Métodos de Gradiente conjugado. Algoritmos y complejidad.
+ - Métodos de subespacios de Krilov. Algoritmo de Arnoldi y Lanczos.
+ - Descomposición por valores singulares (SVD). Algoritmos.
+   * Métodos de subespacios : PCA, MDS, FDA y CCA.
+   * Propiedades variacionales de autovalores y valores singulares.
+   * Matrices diferenciales.
+ - Algoritmos de Grafos
+   * Algoritmos del camino más corto: Dijstra, Floyd-Warshall.
+   * Problema del árbol generador mínimo.
+   * Algoritmo BFS y DFS. 
+   * Algoritmo de Boruvka -Solling.
+ - Flujo de redes 
+   * Redes de transporte y cortes.
+   * Teorema del máximo flujo y el mínimo corte.
+   * Capacidad residual y red residual.
+   * Algoritmo de Ford-Fulkerson. Modificación del algoritmo de Ford-Fulkerson por Edmonds-Karp.
+   * Tiempo de complejidad del Algoritmo de Ford-Fulkerson.
+   * Algoritmo de Edmonds-Karp.
+   
+  - Algoritmo PageRank
+    * Importancia en la Web. Motores de búsqueda.
+    * La web y la teoria de Grafos. 
+    * Implementación.
+ - El grafo aleatorio de Erdos-Renyi
+    * Grafos aleatorios. 
+    * El modelo de Erdos-Renyi.
+    * Aplicaciones.
+ - Prueba del teorema fundamental de Programación Lineal. El método del Simplex. Algoritmos.
+ - Métodos de puntos interiores. Algoritmos. 
+ - Test de primalidad de Miller-Rabin.
+ - Grupos que actúan en conjuntos
+   * Grupos de permutaciones. La rotación de un cuadrado.
+   * El grupo simétrico. Ejemplos.
+   * El grupo diedro. Ejemplos.
+   * El ciclo de descomposición de una permutación.
+ 
+ - Cadenas de Markov y Martingalas
+    * Matrices de transición. Cadenas de Markov y grafos.
+    * Cadenas de Markov irreducibles. Distribuciones invariantes.
+    * Martingalas. Teorema de convergencia de Martingalas.
+    * Tiempos de parada.
+ - Caminos aleatorios
+   * Definiciones.
+   * El principio de reflección. El teorema de Ballot.
+   * Retorno al cero. 
+   * Lema de Nelson. 
+ - Métodos de Montecarlo
+    * Definiciones.
+    * Método tradicional de integración de MonteCarlo.
+    * Caso particular: Simulación de Variables aleatorias.
+    * El método Bootstrap.
+    * El método  Jackknife.
+ - Procesamiento de señales
+    * La transformada discreta de Fourier. Las transformaciones de señales discretas.
+    * Inversa y dualidad de la transformada discreta de Fourier.
+    * FFT. Derivación.
+    * La transformada de Fourier bidimensional y  marcaa de agua digital.
+    * Imágenes híbridas.
+ - Determinismo y Autómatas Finitos
+   * Computación. Autómatas finitos deterministicos(DFA) y no deterministicos (NFA). Automáta pushdown (PDA).
+   * Máquinas de Turing.
+   * Problema de la detención para máquinas de Turing.
+   * El mundo de los autómatas celulares.
+   
+ - Lenguaje natural
+   * Métricas en las palabras. Segmentación de palabras.
+   * Criptoanálisis con N-gramas.
+    
+ - Análisis de regresión  y la distancia de Cook.
+ - Problema de Waldegrave
+   * Introducción a la teoria de Juegos.
+   * Solucion del problema. Explicación.
+   * El juego Le Her.
+  - Ingeniería de factores
+    * Métodos de Filtrado
+    * Métodos de envoltura
+    * Métodos embebidos. Ejemplos.
+   - Grupos de algoritmos del Machine Learning
+     * Introducción al Machine Learning. Tipos de aprendizaje.
+     * Métodos basados en regresión.
+     * Algoritmos basados en distancia.
+     * Métodos de regularización.
+     * Algoritmos basados en árboles.
+     * Algoritmos Bayesianos.
+     * Algoritmos de agrupación.
+     
+   - Análisis de componentes principales (PCA)
+     * Aplicacion. Eigenfaces para el reconocimiento facial.
+ 
 
 ####  Equipo de proyecto
 
-Los trabajos  complementarios se realizarán con a lo más 3 compañeros de clase.  Si por  horarios individuales,  preferencias  u otras limitaciones que  puedan limitar su capacidad de trabajar en equipo, puede informarme  para trabajar solo. En general, no anticipamos que las calificaciones para cada miembro del grupo serán diferentes, sin embargo, me reservo el derecho de asignar diferentes calificaciones a cada miembro del grupo.
+Los trabajos  complementarios se realizarán de manera individual. No se aceptan grupos de dos o más estudiantes. 
 
-####  Código
+####  Acerca del lenguaje de programación 
 
-Escribe todos tus  códigos y ejemplos en Python, debes esforzarte  por hacer las cosas de  manera correcta, pensando  en aspectos como la reutilización, manejo de errores, etc. Es menester que  documente  su código.
+Escribe todos tus  códigos y ejemplos en R,
 
-####  Sitio web del tema
-
-El equipo debe presentar un sitio web público para sus temas de trabajo complementario, utilizando  [Github Pages](https://pages.github.com/) o cualquier otro servicio de alojamiento web de su  elección. El sitio web debe resumir  los tópicos de su tema, incorporar algunas  visualizaciones y  un  screencast al sitio web.
-
-#### Screencast
-
-Cada equipo creará un screencast de 5 minutos como mínimo  mostrando, en que consiste el tema complementario, utilizando un cuaderno de jupyter notebook  o algunas diapositivas. Puedes encontrar información de como hacerlo en [Making a Screencast Video](https://docs.google.com/document/d/1alPLuBOW5YPoQDa57KZes1h72PoQDoDj21-UEKOHp1I/pub) o en [How to record screencasts with recordMyDesktop](https://opensource.com/business/15/11/how-record-screencasts).
 
 ## Referencias
 
 * [Presentation Zen-How to Design & Deliver Presentations Like a Pro](http://www.garrreynolds.com/Presentation/pdf/presentation_tips.pdf).
-* [Points of view: Storytelling](http://www.nature.com/nmeth/journal/v10/n8/full/nmeth.2571.html).
+* [Points of view: Storytelling](http://www.nature.com/nmeth/journal/v10/n8/full/nmeth.2571.html
