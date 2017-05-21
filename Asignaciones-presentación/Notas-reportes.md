@@ -131,6 +131,30 @@ Escribe todos tus  códigos y ejemplos en R y rmarkdown , no se es permitido otr
 
 A los usuarios de Windows, se les recomienda utilizar la codificación **UTF-8** (mayor información [aquí](https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding)). Cualquier símbolo extraño, que aparezca en otros sistema operativo, durante la revisión de esta asignación  es de su completa responsabilidad. 
 
+
+###  Software a utilizar
+ 
+ #### R Markdown 
+
+[R Markdown](http://rmarkdown.rstudio.com/index.html) es un framework para ciencia de datos de manera que puede crear reportes dinámicos con R, además de ejecutar y guardar código. Por ejemplo sea un tabla en markdown con R.
+
+```{r , results='asis', echo=FALSE}
+cat("x | y", "--- | ---", sep="\n")
+cat(apply(df, 1, function(X) paste(X, collapse=" | ")), sep = "\n")
+```
+
+R Markdown soporta formatos de salida estáticos y dinámicos que incluye  HTML, pdf,  beamer-latex, html5T, shiny,etc.
+
+Más información:
+
+* [Lecciones de R Markdown ](http://rmarkdown.rstudio.com/lesson-1.html).
+
+
+#### R Notebooks
+Un R Notebooks es un documento R Markdown, que permite mostrar independientemente e interactivamente , código R y sintaxis de  otros lenguajes. Es una manera fácil de generar reportes, análisis estadísticos, visualización de datos.
+
+Más información en  la página [http://rmarkdown.rstudio.com/r_notebooks.html](http://rmarkdown.rstudio.com/r_notebooks.html).
+
 ### Sobre el trabajo
 
 Cualquier, copia o traducción directa de una página, conducirá a la anulación de la asignación. El estudiante debe leer y buscar información sobre los temas y sacar sus propios resumenes. Se usará  [MOSS A System for Detecting Software Similarity](https://theory.stanford.edu/~aiken/moss/) si fuese necesario. 
