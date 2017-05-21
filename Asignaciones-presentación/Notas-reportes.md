@@ -127,7 +127,7 @@ Los trabajos  complementarios se realizarán de **manera individual**. No se ace
 
 ####  Acerca del lenguaje de programación 
 
-Escribe todos tus  códigos y ejemplos en R y rmarkdown , no se es permitido otro lenguaje de programación distinto. El código R, que escribas debe estar incluido en el documento, utilizando la siguiente [plantilla](), cualquier otro formato,  será descartado y no será revisado. 
+Escribe todos tus  códigos y ejemplos en R y rmarkdown , no se es permitido otro lenguaje de programación distinto. El código R, que escribas debe estar incluido en el documento, utilizando la siguiente [plantilla](https://github.com/C-Lara/Inferencia_estadistica/tree/master/Asignaciones-presentaci%C3%B3n/Plantilla), cualquier otro formato,  será descartado y no será revisado. 
 
 A los usuarios de Windows, se les recomienda utilizar la codificación **UTF-8** (mayor información [aquí](https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding)). Cualquier símbolo extraño, que aparezca en otros sistema operativo, durante la revisión de esta asignación  es de su completa responsabilidad. 
 
