@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Título General
 
-El título general es el nombre del tema principal de tu asignación. En esta parte, debes agregar toda la información, que soporte todo tu trabajo. Puedes agregar [enlaces](http://rmarkdown.rstudio.com/lesson-1.html) e inclusive código que puedes ejecutar o no. Por ejemplo, si queremos no evaluar el siguiente código, debemos modificar   la entrada de código, usando `eval =FALSE`
+El título general es el nombre del tema principal de tu asignación. En esta parte, debes agregar toda la información, que soporte todo tu trabajo. Puedes agregar [enlaces](http://rmarkdown.rstudio.com/lesson-1.html) e inclusive código que puedes ejecutar o no. Por ejemplo, si queremos no evaluar el siguiente código, debemos modificar   la entrada de código, usando `eval =FALSE`:
 
 ```{r ejemplo1, comment = NA, prompt =TRUE, eval= FALSE}
 N <- 100000
@@ -50,7 +50,7 @@ lines(density(x,bw=1), col = 'red', lwd = 3)
 
 Puedes continuar desarrollando tus subtemas de la misma forma. Las ecuaciones de latex, también se pueden colocar, de la siguiente manera, como en la desigualdad de McDiarmind:
 
-Sea $X_1, X_2, \dots X_n$ variables aleatorias independientes. Suponganse que
+Sea $X_1, X_2, \dots X_n$ variables aleatorias independientes. Suponganse que:
 
 \[
 \sup_{x_1,\dots, x_n, x^{'}_{i}}\Bigl\vert g(x_1,\dots, x_{i - 1}, x_i, x_{i + 1}, \dots, x_n ) - g(x_1,\dots, x_{i - 1}, x^{'}_i, x_{i + 1}, \dots, x_n )\Bigr\vert \leq c_i
@@ -58,7 +58,7 @@ Sea $X_1, X_2, \dots X_n$ variables aleatorias independientes. Suponganse que
 
 \vspace{0.2cm}
 
-para $i = 1,\dots, n$. Entonces
+para $i = 1,\dots, n$. Entonces:
 
 \vspace{0.2cm}
 
