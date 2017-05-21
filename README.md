@@ -9,7 +9,10 @@
 ## Lista de temas
 
  - Transformaciones  de variables aleatorias.
+   * [Transformation of random variables](http://www2.econ.iastate.edu/classes/econ671/hallam/documents/Transformations.pdf)
+   * [Derived distributions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-436j-fundamentals-of-probability-fall-2008/lecture-notes/MIT6_436JF08_lec10.pdf).
  - El Jacobiano.
+   * [Geometry of Transformations of Random Variables](https://www.stat.wisc.edu/courses/st309-larget/jacobian.pdf).
  - Funciones generadoras de momentos.
  - Muestreo desde una población normal. 
  - Las distribuciones  T y F.
