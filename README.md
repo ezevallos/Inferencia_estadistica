@@ -14,6 +14,7 @@
  - El Jacobiano.
    * [Geometry of Transformations of Random Variables](https://www.stat.wisc.edu/courses/st309-larget/jacobian.pdf).
  - Funciones generadoras de momentos.
+   * [Moment generating function](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-436j-fundamentals-of-probability-fall-2008/lecture-notes/MIT6_436JF08_lec14.pdf).
  - Muestreo desde una población normal. 
  - Las distribuciones  T y F.
  - Estimadores  de orden.
