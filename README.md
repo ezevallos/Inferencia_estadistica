@@ -19,7 +19,9 @@
  - Las distribuciones  T y F.
  - Estimadores  de orden.
  - Ley débil de los grandes números.
+   * [Cotas y desigualdades en probabilidad](https://github.com/C-Lara/Curso-Probabilidad/blob/master/Cotas-Teoria_limites/Desigualdades_teoremas_limites.pdf).
  - El teorema del Límite Central.
+   * [Cotas y desigualdades en probabilidad](https://github.com/C-Lara/Curso-Probabilidad/blob/master/Cotas-Teoria_limites/Desigualdades_teoremas_limites.pdf).
  - Estimacion.
  - Intervalos de confianza.
  - Prueba de hipótesis. 
