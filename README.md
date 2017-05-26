@@ -17,6 +17,7 @@
    * [Moment generating function](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-436j-fundamentals-of-probability-fall-2008/lecture-notes/MIT6_436JF08_lec14.pdf).
  - Muestreo desde una población normal. 
  - Las distribuciones  T y F.
+   * [Relationships among some univariate distributions](http://www.mi.fu-berlin.de/inf/groups/ag-tech/intern/19540-V-Simulation/Relationships_among_some_univariate_distributions.pdf). 
  - Estimadores  de orden.
  - Ley débil de los grandes números.
    * [Cotas y desigualdades en probabilidad](https://github.com/C-Lara/Curso-Probabilidad/blob/master/Cotas-Teoria_limites/Desigualdades_teoremas_limites.pdf).
