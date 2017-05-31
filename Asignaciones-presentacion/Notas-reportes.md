@@ -84,6 +84,7 @@ Trabajos fuera de tiempo, no serán tomados en cuenta.  La lista de temas es:
     * Caso particular: Simulación de Variables aleatorias.
     * El método Bootstrap.
     * El método  Jackknife.
+    ** Josias Ruegg Yupa**
  - Procesamiento de señales
     * La transformada discreta de Fourier. Las transformaciones de señales discretas.
     * Inversa y dualidad de la transformada discreta de Fourier.
