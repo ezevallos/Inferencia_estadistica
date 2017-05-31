@@ -128,7 +128,7 @@ Trabajos fuera de tiempo, no serán tomados en cuenta.  La lista de temas es:
      * Algoritmos aleatorios. Ejemplos.
      * Análisis probabilistico y aplicaciones de la variable aleatoria indicador.
      
-   - Introducción a la Inteligencia artificial (Angel Huiza Flores)
+   - Introducción a la Inteligencia artificial (**Angel Huiza Flores**)
      * Búsqueda heurística.
      * Algoritmo A*
      * Búsqueda con adversarios.
