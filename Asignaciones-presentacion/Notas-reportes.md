@@ -16,7 +16,7 @@ Trabajos fuera de tiempo, no serán tomados en cuenta.  La lista de temas es:
     * Disminuir y conquistar.
     * Transformar y conquistar.
     * Greedy.
- - Técnicas de Análisis
+ - Técnicas de Análisis (**Jesús Condor Torres**)
     * Análisis de un algoritmo no recursivo. Ejemplo: Square Build-Up. 
     * Análisis de un algoritmo recursivo. Ejemplo: Torres de Hanoi.
     * Invariantes. Ejemplos.
