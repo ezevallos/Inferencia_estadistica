@@ -78,7 +78,7 @@ Trabajos fuera de tiempo, no serán tomados en cuenta.  La lista de temas es:
    * El principio de reflección. El teorema de Ballot.
    * Retorno al cero. 
    * Lema de Nelson. 
- - Métodos de Montecarlo (** Josias Ruegg Yupa**)
+ - Métodos de Montecarlo (**Josias Ruegg Yupa**)
     * Definiciones.
     * Método tradicional de integración de MonteCarlo.
     * Caso particular: Simulación de Variables aleatorias.
