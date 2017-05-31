@@ -61,7 +61,7 @@ Trabajos fuera de tiempo, no serán tomados en cuenta.  La lista de temas es:
     * Aplicaciones.
  - Prueba del teorema fundamental de Programación Lineal. El método del Simplex. Algoritmos (**Jorge Palacios Asenjo**)
  - Métodos de puntos interiores. Algoritmos. 
- - Test de primalidad de Miller-Rabin.
+ - Test de primalidad de Miller-Rabin (**Kevin Molina Bejar**)
  - Grupos que actúan en conjuntos (**Nelson Jorge Condor**)
    * Grupos de permutaciones. La rotación de un cuadrado.
    * El grupo simétrico. Ejemplos.
