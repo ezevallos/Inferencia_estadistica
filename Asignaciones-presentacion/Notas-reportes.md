@@ -78,13 +78,13 @@ Trabajos fuera de tiempo, no serán tomados en cuenta.  La lista de temas es:
    * El principio de reflección. El teorema de Ballot.
    * Retorno al cero. 
    * Lema de Nelson. 
- - Métodos de Montecarlo
+ - Métodos de Montecarlo (** Josias Ruegg Yupa**)
     * Definiciones.
     * Método tradicional de integración de MonteCarlo.
     * Caso particular: Simulación de Variables aleatorias.
     * El método Bootstrap.
     * El método  Jackknife.
-    ** Josias Ruegg Yupa**
+    
  - Procesamiento de señales
     * La transformada discreta de Fourier. Las transformaciones de señales discretas.
     * Inversa y dualidad de la transformada discreta de Fourier.
